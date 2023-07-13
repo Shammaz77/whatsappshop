@@ -41,7 +41,7 @@ header {
 	position: absolute;
 	z-index: 10;
 	right: 6px;
-	top: 4px;
+	top: 5px;
 }
 .search-box{
 	position: relative;
@@ -52,11 +52,20 @@ header {
 	margin-top: 25px !important;
 	margin-bottom: 20px !important;
 	padding: 8px !important;
+	border-radius: 8px;
 }
 .search-box input::placeholder{
 	font-size: 14px;
 }
-
+.dark-theme-bg{
+  background: #1C272F;
+	padding: 10px;
+	border-bottom-left-radius: 24px;
+	border-bottom-right-radius: 24px;
+}
+.logo-main{
+	width: 30px;
+}
 
 
 
