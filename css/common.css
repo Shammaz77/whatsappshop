@@ -55,7 +55,8 @@ header {
 	border-radius: 8px;
 }
 .search-box input::placeholder{
-	font-size: 14px;
+	font-size: 13px;
+	padding-left: 10px;
 }
 .dark-theme-bg{
   background: #1C272F;
