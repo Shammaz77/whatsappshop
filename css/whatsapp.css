@@ -13,3 +13,133 @@
 .slider-home{
 	padding: 12px 0px 0px 0px;
 }
+/* landing page  */
+.landing-head-dv{
+	padding: 18px 0px;
+}
+.text-heading-landing{
+	font-weight: 400;
+	line-height: 1.4;
+	font-size: 21px;
+}
+.name-text{
+	color: #45D06E;
+	font-weight: 600;
+}
+.grid-box-landing-pg{
+	border-radius: 5px;
+	padding: 10px;
+	/* margin-bottom: 13px; */
+	min-height: 130px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.grid-one{
+	background: #FB982E;
+}
+.grid-two{
+	background: #157F6E;
+}
+.grid-three{
+	background: #C13B3B;
+}
+.grid-four{
+	background: #7985CB;
+}
+.number-text-grid{
+	color: #fff;
+}
+.grid-one-sub-text{
+	color: #FFE0BF;
+}
+.grid-two-sub-text{
+	color: #9EFFEF;
+}
+.grid-three-sub-text{
+	color: #F9C8C8;
+}
+.grid-four-sub-text{
+	color: #E2E5FC;
+}
+.content-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}
+.small-text-common{
+	font-size: 14px;
+	font-weight: 400;
+}
+.box-delivery{
+	margin: 7px 0px;
+	background: #0F3F54;
+	border-radius: 10px;
+}
+.box-delivery svg{
+	width: 100% ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
