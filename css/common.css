@@ -3,6 +3,9 @@
   padding: 0;
 	font-family: 'Rubik', sans-serif;
 }
+.primary-bg{
+	background: #049779 !important;
+}
 ul li {
   list-style: none;
 }

@@ -80,28 +80,112 @@
 .box-delivery svg{
 	width: 100% ;
 }
+.latest-order-dv{
+	box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.25);
+	padding: 10px;
+	border-radius: 40px;
+	margin: 7px 0px;
+	position: relative;
+}
+.latest-order-image{
+	width: 55px;
+}
+.order-text{
+	font-weight: 500;
+	font-size: 15px;
+	color: #252B5C;
+}
+.order-text-dv{
+	padding-left: 17px;
+}
+.latest-order-dv a{
+	display: flex;
+	align-items: center;
+}
+.latest-order-dv a:hover{
+	text-decoration: none;
+}
+.arrow-dv svg{
+	background: #45D06E;
+	color: #ffff;
+	padding: 7px;
+	border-radius: 50%;
+}
+.arrow-dv {
+	display: table;
+	margin-left: auto;
+}
+.latest-heading-text-dv{
+	margin: 9px 0px;
+}
+.latest-order-heading{
+	font-size: 21px;
+}
+.notification-dot{
+	background: #E10303;
+	padding: 5px;
+	border-radius: 50%;
+	position: absolute;
+	right: 12px;
+	top: 0px;
+}
+.navbar-main{
+	display: flex;
+	align-items: center;
+}
+.page-name{
+	font-weight: 500;
+	font-size: 17px;
+	color: #252B5C;
+}
+.navbar-main .back-btn svg{
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.category-image{
+	border-radius: 50%;
+}
+.navbar-main .back-btn{
+	background: #F6F6F6;
+	padding: 15px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.page-name-dv{
+	padding-left: 28px;
+}
+.category-box-dv{
+	margin: 6px 0px;
+}
+.category-name{
+	color: #1F2C34;
+	font-size: 14px;
+}
+/* change password page  */
+.form-change-password input{
+	background: #EFEEEE;
+	padding: 13px 20px;
+	border-radius: 14px;
+	border: none !important;
+	outline: none !important;
+	box-shadow: none !important;
+}
+.form-change-password input:focus{
+	background: #EFEEEE;
+}
+.form-change-password input::placeholder{
+	font-size: 13px;
+	font-weight: 400;
+	color: #252B5C;
+}
+.form-change-password{
+	margin-top: 35px;
+}
+.save-btn-change-passwrd{
+	width: 100% !important;
+	border-radius: 18px !important;
+}
 
 
 
