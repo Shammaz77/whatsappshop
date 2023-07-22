@@ -430,24 +430,79 @@
 	justify-content: space-between;
 	align-items: center;
 }
-.text-center{
+.cat-text{
 	font-weight: 400;
 	font-size: 13px;
 	padding-top: 3px;
 }
+/* profile page  */
+.shop-profile-dv{
+	background: #EDEDED;
+	padding: 10px;
+	border-radius: 10px;
+}
+.shop-name-text{
 
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.shop-mail , .shop-number{
+	color: grey;
+	font-weight: 400;
+	margin-bottom: 0px;
+	font-size: 13px;
+	padding-bottom: 3px;
+}
+.dash-text{
+	color: #767676;
+}
+.icon-prfl{
+	background: #C9C9C9;
+	width: max-content;
+	border-radius: 50%;
+	padding: 7px 8px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.profile-page-name{
+	padding-left: 15px;
+}
+.profle-btn{
+	display: flex;
+	align-items: center;
+}
+.profile-page-name-txt{
+	font-weight: 400;
+}
+.page-nav-btn{
+	background: #000;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	border-radius: 50%;
+	padding: 11px 13px;
+	position: absolute;
+	right: 0px;
+}
+.page-nav-btn  svg{
+	
+}
+.profle-btn{
+	position: relative;
+}
+.act{
+	background: #CE020E;
+	padding: 4px 10px;
+	color: #fff;
+	border-radius: 20px;
+}
+.actn-needed-dv{
+	position: absolute;
+	right: 0px;
+}
+.change-password{
+	color: #CE020E;
+	font-weight: 400;
+}
 
 
 
